@@ -30,7 +30,7 @@
             "thumbnail": {
                 "id": "FUHN",
                 "type": "url",
-                "url": "https://sba-storage.fra1.cdn.digitaloceanspaces.com/mini-games/one-on-one/one-on-one-600x600.webp"
+                "url": "https://cdn.jsdelivr.net/gh/streetball-app/game-rules/docs/assets/images/one-on-one/one-on-one-600x600.webp"
             },
             "order": {
                 "id": "bMi~",
@@ -70,7 +70,7 @@
                 ]
             }
         },
-        "url": "https://www.notion.so/1-on-1-ebd4c1a72cb047edb48265e54c64afdb",
+        "url": "",
         "public_url": null
     },
     {
@@ -104,7 +104,7 @@
             "thumbnail": {
                 "id": "FUHN",
                 "type": "url",
-                "url": "https://sba-storage.fra1.cdn.digitaloceanspaces.com/mini-games/horse/horse-600x600.webp"
+                "url": "https://cdn.jsdelivr.net/gh/streetball-app/game-rules/docs/assets/images/horse/horse-600x600.webp"
             },
             "order": {
                 "id": "bMi~",
@@ -144,7 +144,7 @@
                 ]
             }
         },
-        "url": "https://www.notion.so/H-O-R-S-E-4498eda7e7a44c45ab1dffb3d6e98329",
+        "url": "",
         "public_url": null
     }
 ]
