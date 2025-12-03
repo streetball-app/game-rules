@@ -1,0 +1,1511 @@
+[
+    {
+        "object": "block",
+        "id": "0367e111-7870-4ee3-a286-78078c085969",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:59:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Це не просто звичайні кидки в кільце. В H.O.R.S.E. мова йде про креативність, точність і купу веселощів.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Це не просто звичайні кидки в кільце. В H.O.R.S.E. мова йде про креативність, точність і купу веселощів.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "355d327c-5f1e-4bd8-973c-6667e531466a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:32:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Ціль: Повтори кидок або отримаєш літеру.\nПромахнись пʼять разів, і ти складеш слово H.O.R.S.E. і вилетиш.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Ціль: Повтори кидок або отримаєш літеру.\nПромахнись пʼять разів, і ти складеш слово H.O.R.S.E. і вилетиш.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "5ace9dae-92e4-4b4d-aeb6-178756da5ed1",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:59:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Останній, хто не набрав повне слово, виграє.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Останній, хто не набрав повне слово, виграє.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "52721749-dabd-4ea5-8725-4eab9c9ebaa2",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Хто починає?",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Хто починає?",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "7d415b20-94d5-4692-8d32-7cf10aa47a82",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Підкиньте монету або киньте м'яч у кільце, щоб визначити, хто починає. Все просто.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Підкиньте монету або киньте м'яч у кільце, щоб визначити, хто починає. Все просто.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "831bdb47-df8e-4bca-97ed-7ba9bb33e276",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Як це працює",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Як це працює",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "e780cc9c-3382-4816-9f2e-b9662d5ab77a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Гравець 1 робить перший кидок.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Гравець 1 робить перший кидок.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "147fe829-bb1e-4d14-ab41-dc9dfc001b63",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо він влучить, Гравець 2 має повторити цей кидок.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо він влучить, Гравець 2 має повторити цей кидок.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "415815e7-9f42-41e0-a2c0-45272200f6ee",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:33:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо Гравець 2 промахнеться, він отримує літеру \"H.\", а Гравець 1 продовжує “замовляти” наступний кидок.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо Гравець 2 промахнеться, він отримує літеру \"H.\", а Гравець 1 продовжує “замовляти” наступний кидок.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "c2a86363-e137-493b-b65e-a3c2f9d4bc99",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "527621ea-8423-40ef-afdc-048128f7c70d",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:33:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо Гравець 1 промахується під час “замовлення” кидка, м'яч переходить до Гравця 2, і тепер він “замовляє” свій кидок.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо Гравець 1 промахується під час “замовлення” кидка, м'яч переходить до Гравця 2, і тепер він “замовляє” свій кидок.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "92f93cd1-7735-47b6-a60f-52366ab20ba2",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "87fea19a-6034-48e6-9a55-ff856b67b382",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:33:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо Гравець 1 влучає і Гравець 2 успішно повторює кидок, ніхто не отримує літеру, і Гравець 1 знову “замовляє” наступний кидок.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо Гравець 1 влучає і Гравець 2 успішно повторює кидок, ніхто не отримує літеру, і Гравець 1 знову “замовляє” наступний кидок.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "3bbec457-25bc-44c8-9cfe-f7c102665713",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "4e7d1cda-4b68-4ab2-8aec-a35f84f19cab",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Гра продовжується в такому форматі, доки хтось не складе слово H.O.R.S.E.\nПромахнись п'ять разів, і ти вилетиш. Перемагає той, хто залишиться без усіх літер.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Гра продовжується в такому форматі, доки хтось не складе слово H.O.R.S.E.\nПромахнись п'ять разів, і ти вилетиш. Перемагає той, хто залишиться без усіх літер.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "417308af-eb31-4778-ba2d-5f61d35bc03e",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "d5d84f8f-fa64-400b-8a13-02e03c150719",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Кидки",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Кидки",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "1c518bc9-dc2d-4463-a2b2-b79d3a9de1f6",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Кидки можна робити з будь-якого місця на майданчику.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Кидки можна робити з будь-якого місця на майданчику.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "df47bb43-fe83-4b07-9a13-f8bc9fead715",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:01:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Але давай грати чесно: якщо ти знаєш, що твій суперник не може робити слем-данки або крутити м'яч на пальці — не роби цього…",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Але давай грати чесно: якщо ти знаєш, що твій суперник не може робити слем-данки або крутити м'яч на пальці — не роби цього…",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "969d165e-1847-4022-a3d9-abff318d383f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:01:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Ти можеш або вказати кидок (\"called shot\"), або зробити випадковий кидок (\"slop\" shot).",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Ти можеш або вказати кидок (\"called shot\"), або зробити випадковий кидок (\"slop\" shot).",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "abaa0f46-8f65-4ba3-bf5f-184803d4522a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:34:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "quote",
+        "quote": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Вказаний кидок: Це коли ти описуєш точно, як хочеш, щоб м'яч увійшов у кільце — чи від щита, або пряме влучання, або не торкнувшись ні щита ні кільця (swish). Якщо ти не виконаєш кидок саме так, як сказав, це вважається промахом.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Вказаний кидок: Це коли ти описуєш точно, як хочеш, щоб м'яч увійшов у кільце — чи від щита, або пряме влучання, або не торкнувшись ні щита ні кільця (swish). Якщо ти не виконаєш кидок саме так, як сказав, це вважається промахом.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "1f7316a2-d2b9-49fe-9d8e-85efd2fc3877",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:02:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Ось як розподіляються вказані кидки:",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Ось як розподіляються вказані кидки:",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "b7b89713-5bf3-4e4d-85ab-ca098e8d01af",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:35:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Bank: Від щита, можна торкнутися кільця.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Bank: Від щита, можна торкнутися кільця.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "6d162797-bf06-4a18-b7ac-19353c0c93b2",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:36:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Bank Swish: Від щита, без торкання кільця.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Bank Swish: Від щита, без торкання кільця.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "b364ab8a-6986-4841-97b8-55a08ef62932",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:37:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Straight In: Без торкання щита.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Straight In: Без торкання щита.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "e0c9aa72-b285-4a2b-a6ba-16a640f9d25f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:37:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Swish: Тільки сітка, без торкання кільця і щита.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Swish: Тільки сітка, без торкання кільця і щита.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "5bb5a67b-7538-42df-befa-c3cf86de5932",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:37:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Opposite Hand: Кидок слбою (недомінантною) рукою.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Opposite Hand: Кидок слбою (недомінантною) рукою.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "8a008baf-db40-4fdb-b5d6-69907093cf4c",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:03:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Jump Shot: Обидві ноги у повітрі під час кидка.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Jump Shot: Обидві ноги у повітрі під час кидка.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "44808969-d5f2-42e8-9a84-af2a9ee598a4",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:03:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Set Shot: Обидві ноги на землі під час кидка.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Set Shot: Обидві ноги на землі під час кидка.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "8bc5222d-601a-4e68-94d7-b09462a6ea28",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:07:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Hook Shot: Класичний хук через тіло.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Hook Shot: Класичний хук через тіло.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "79a33f45-068f-49ec-99f0-4472e8706b2f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T22:05:00.000Z",
+        "last_edited_time": "2024-09-15T22:07:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "(якщо ти вперше чуєш про “хук” - вбий на YouTube “hook shot basketball”)",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "(якщо ти вперше чуєш про “хук” - вбий на YouTube “hook shot basketball”)",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "e85a96a5-b438-40c3-bfa8-386d84280aa0",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T21:58:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "e7b65bfc-cc19-4e68-9a79-8293f2213421",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Додаткові правила",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": true,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Додаткові правила",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "f78483f0-4d95-4d94-bbd3-df3d231d6680",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Без повторних кидків: Не можна кидати двічі поспіль з одного місця, щоб не дати супернику дві літери підряд.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Без повторних кидків: Не можна кидати двічі поспіль з одного місця, щоб не дати супернику дві літери підряд.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "1fdb05da-5c56-4fac-bc0e-522abee3c501",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-15T22:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Немає суддів, тому все на чесність — сам оголошуй, коли помилився.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Немає суддів, тому все на чесність — сам оголошуй, коли помилився.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "cf80fd1d-0a93-4c0f-8256-bc1f7a0abb34",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T21:58:00.000Z",
+        "last_edited_time": "2024-09-16T00:38:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Грайте до двох перемог у трьох іграх, щоб визначити справжнього переможця.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Грайте до двох перемог у трьох іграх, щоб визначити справжнього переможця.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8070-9a25-cb40171478b7",
+        "parent": {
+            "type": "page_id",
+            "page_id": "37014c02-017e-4bc3-875a-8aa66e752d47"
+        },
+        "created_time": "2024-09-15T22:06:00.000Z",
+        "last_edited_time": "2024-09-15T22:06:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [],
+            "color": "default"
+        }
+    }
+]

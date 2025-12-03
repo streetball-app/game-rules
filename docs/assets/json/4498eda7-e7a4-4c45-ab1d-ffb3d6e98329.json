@@ -1,0 +1,1289 @@
+[
+    {
+        "object": "block",
+        "id": "d4f49d47-9beb-4af8-b910-f065da7941da",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-08-28T20:38:00.000Z",
+        "last_edited_time": "2024-09-15T21:31:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "This ain't just your average shootaround. In H.O.R.S.E., we’re talkin' creativity, precision, and a whole lot of fun.\nThe goal? Match the shot, or catch that letter.\nMiss enough, and you spell H.O.R.S.E. and you're out.\nLast one standing takes the crown.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "This ain't just your average shootaround. In H.O.R.S.E., we’re talkin' creativity, precision, and a whole lot of fun.\nThe goal? Match the shot, or catch that letter.\nMiss enough, and you spell H.O.R.S.E. and you're out.\nLast one standing takes the crown.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8065-9db2-f8f12978bf23",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:31:00.000Z",
+        "last_edited_time": "2024-09-15T21:31:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Who’s Got First?",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Who’s Got First?",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "16517bac-9a67-433d-b885-68382926d595",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:31:00.000Z",
+        "last_edited_time": "2024-09-15T21:31:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Flip a coin or shoot a basket to decide. Simple as that.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Flip a coin or shoot a basket to decide. Simple as that.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-808b-97fe-c4b73f8b23c0",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:32:00.000Z",
+        "last_edited_time": "2024-09-15T21:32:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "How It Works",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "How It Works",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80ed-a75f-d4a0e50af173",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:43:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Player 1 takes the first shot.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Player 1 takes the first shot.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "9a705ae6-c385-44aa-a08f-4ca58e50265f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:43:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "If they make it, Player 2 must replicate the shot.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "If they make it, Player 2 must replicate the shot.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8069-a413-dbffe8d7f379",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:43:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "If Player 2 misses, they pick up an \"H,\" and Player 1 continues creating the next shot.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "If Player 2 misses, they pick up an \"H,\" and Player 1 continues creating the next shot.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "67993fab-eb3a-48df-bbd0-bbb13e1524fa",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:56:00.000Z",
+        "last_edited_time": "2024-09-15T21:56:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80b1-80e2-ca0f2ff27623",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:43:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "If Player 1 misses while creating a shot, the ball passes to Player 2, who gets to create their own shot.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "If Player 1 misses while creating a shot, the ball passes to Player 2, who gets to create their own shot.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80ce-88ba-d485aef21b71",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:56:00.000Z",
+        "last_edited_time": "2024-09-15T21:56:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80ac-b001-d1cd1b5bf8b0",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:43:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "If Player 1 makes a shot and Player 2 successfully duplicates it, nobody gets a letter, and Player 1 creates the next shot again.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "If Player 1 makes a shot and Player 2 successfully duplicates it, nobody gets a letter, and Player 1 creates the next shot again.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80b3-a6c6-f250ed54a367",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:56:00.000Z",
+        "last_edited_time": "2024-09-15T21:56:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8038-80a0-f0447f60780c",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:32:00.000Z",
+        "last_edited_time": "2024-09-15T21:33:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "The game keeps rollin’ like this until someone spells out H.O.R.S.E.\nMiss five times, and you’re out. The last one without all the letters wins.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "The game keeps rollin’ like this until someone spells out H.O.R.S.E.\nMiss five times, and you’re out. The last one without all the letters wins.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8079-855e-ceb337f3728c",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:44:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "The Shots",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "The Shots",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "59e6f0f5-cbe4-44e0-b901-f03dcf7060ea",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:49:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Shots can come from anywhere on the court.\nBut keep it fair: if you know that your opponent cannot dunk or spin the ball on the finger - don’t do that…",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Shots can come from anywhere on the court.\nBut keep it fair: if you know that your opponent cannot dunk or spin the ball on the finger - don’t do that…",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-809c-9f38-e43c7c53f312",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:48:00.000Z",
+        "last_edited_time": "2024-09-15T21:50:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "You can either call your shot or go with a “slop” shot.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "You can either call your shot or go with a “slop” shot.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8007-ba7a-c5057fc1f5ae",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:51:00.000Z",
+        "last_edited_time": "2024-09-15T21:54:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "quote",
+        "quote": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Called Shots: It’s when you describe exactly how you want the ball to go in — whether it's off the backboard, straight in, or a swish. If you don’t make the shot exactly how you called it, it counts as a miss.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Called Shots: It’s when you describe exactly how you want the ball to go in — whether it's off the backboard, straight in, or a swish. If you don’t make the shot exactly how you called it, it counts as a miss.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "b6aaeead-a32d-4973-b7bc-e08363a9f762",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:52:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Here’s how called shots break down:",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Here’s how called shots break down:",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "e8fb9450-1ae9-44a1-8190-d1cca248e7f0",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Bank: Off the backboard, can touch the rim.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Bank: Off the backboard, can touch the rim.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "ef8f7b7a-6b27-435c-a939-3a9f559180cc",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Bank Swish: Off the backboard, no rim.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Bank Swish: Off the backboard, no rim.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "f925012f-2bb8-412f-b92f-a9cf4f6e85c0",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Straight In: No backboard, no rim.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Straight In: No backboard, no rim.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "77763506-1eb7-410a-acf7-7d5b7d1bba42",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Swish: All net, no rim, no backboard.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Swish: All net, no rim, no backboard.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "69e36fe4-691f-4212-8116-c057c79f5eca",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Opposite Hand: Shoot with your non-dominant hand.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Opposite Hand: Shoot with your non-dominant hand.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "d0c6939f-c44f-4bd9-8b75-9f22c15a0202",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Jump Shot: Both feet off the court when you release.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Jump Shot: Both feet off the court when you release.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "a0e648da-8206-4105-baae-e6cfaef77385",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Set Shot: Feet on the floor when you release.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Set Shot: Feet on the floor when you release.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "21eee1a1-8730-4883-98fe-980626da75e7",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:44:00.000Z",
+        "last_edited_time": "2024-09-15T21:53:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Hook Shot: A classic hook over your body.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Hook Shot: A classic hook over your body.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80d4-8fc7-d0ecafb94b48",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:45:00.000Z",
+        "last_edited_time": "2024-09-15T21:45:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Additional Rules",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Additional Rules",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-807e-947d-f0a0e2adf564",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:45:00.000Z",
+        "last_edited_time": "2024-09-15T21:55:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "No Double Shots: You can’t shoot from the same spot twice in a row to give your opponent back-to-back letters.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "No Double Shots: You can’t shoot from the same spot twice in a row to give your opponent back-to-back letters.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8080-b70d-d1939c683974",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:45:00.000Z",
+        "last_edited_time": "2024-09-15T21:55:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Honor System: No refs, so call it how it is — on your honor.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Honor System: No refs, so call it how it is — on your honor.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-807f-a462-d11b265655c7",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:45:00.000Z",
+        "last_edited_time": "2024-09-15T21:55:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Best of Three: Want to keep it competitive? Play best two out of three games to crown the real winner.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Best of Three: Want to keep it competitive? Play best two out of three games to crown the real winner.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-800e-ad38-d7724e361e2a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "4498eda7-e7a4-4c45-ab1d-ffb3d6e98329"
+        },
+        "created_time": "2024-09-15T21:46:00.000Z",
+        "last_edited_time": "2024-09-15T21:46:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [],
+            "color": "default"
+        }
+    }
+]

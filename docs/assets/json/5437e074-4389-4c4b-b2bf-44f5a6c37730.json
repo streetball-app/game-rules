@@ -1,0 +1,1473 @@
+[
+    {
+        "object": "block",
+        "id": "8479ef0c-2550-447a-9de4-70f9d01bfe93",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-08-28T20:37:00.000Z",
+        "last_edited_time": "2024-09-15T19:00:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Перш ніж виходити на майданчик, потрібно зрозуміти, в якому районі ми опинились. У кожного району своя атмосфера і свої традиції.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Перш ніж виходити на майданчик, потрібно зрозуміти, в якому районі ми опинились. У кожного району своя атмосфера і свої традиції.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "6d564089-1354-4d1a-9a31-407de81cc9f5",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:05:00.000Z",
+        "last_edited_time": "2024-09-15T19:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Перед грою важливо домовитися з суперником про правила. Ніяких суперечок — вирішили і граємо.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Перед грою важливо домовитися з суперником про правила. Ніяких суперечок — вирішили і граємо.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80f9-b795-e3e08a00e359",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:08:00.000Z",
+        "last_edited_time": "2024-09-15T20:30:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "До якого рахунку гра",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "До якого рахунку гра",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-803b-bd40-e7305a925ad8",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:13:00.000Z",
+        "last_edited_time": "2024-09-15T19:23:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Зазвичай граємо до 11 — швидко і чітко.\nХочеш довшу гру? Тоді до 21.\nІ часто додаємо правило “виграти з різницею в 2 очки” для більш цікавої боротьби.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Зазвичай граємо до 11 — швидко і чітко.\nХочеш довшу гру? Тоді до 21.\nІ часто додаємо правило “виграти з різницею в 2 очки” для більш цікавої боротьби.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80ae-a3e4-df4de58d6b3a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:13:00.000Z",
+        "last_edited_time": "2024-09-15T19:25:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "А якщо все серйозно, то переможець визначається в серії із трьох ігор.\nВиграв дві гри із трьох - ти переміг.\nКожна нова гра починається тим, хто не стартував минулу.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "А якщо все серйозно, то переможець визначається в серії із трьох ігор.\nВиграв дві гри із трьох - ти переміг.\nКожна нова гра починається тим, хто не стартував минулу.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-808e-8c7e-d7d22cd8f569",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:34:00.000Z",
+        "last_edited_time": "2024-09-15T20:30:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Набір очок",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Набір очок",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "785b5ec9-ecbf-4253-8d94-050667055759",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:34:00.000Z",
+        "last_edited_time": "2024-09-15T19:36:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Кожне влучання — це 1 очко, але якщо стріляєш поза триочкової, то це 2.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Кожне влучання — це 1 очко, але якщо стріляєш поза триочкової, то це 2.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-802f-9ec4-cfae8bb5cdf8",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:35:00.000Z",
+        "last_edited_time": "2024-09-15T19:37:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Хочеш спростити? Тоді всі кидки рахуються за 1 бал.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Хочеш спростити? Тоді всі кидки рахуються за 1 бал.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "cd1d0a1f-c48f-41d6-bcef-b07c9d47abab",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:29:00.000Z",
+        "last_edited_time": "2024-09-15T20:30:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Володіння і відновлення гри",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Володіння і відновлення гри",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80c1-9b6f-ed67942de2b1",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:05:00.000Z",
+        "last_edited_time": "2024-09-15T20:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Кожна атака починається з чеку — м'яч у руках, передай супернику і чекай на повернення.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Кожна атака починається з чеку — м'яч у руках, передай супернику і чекай на повернення.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8046-be17-e3066b639adc",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:05:00.000Z",
+        "last_edited_time": "2024-09-15T20:05:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Але в деяких іграх грають без чеків — просто винеси м'яч за лінію триочкових, і можна продовжувати.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Але в деяких іграх грають без чеків — просто винеси м'яч за лінію триочкових, і можна продовжувати.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8027-85ff-c6e7dd547fad",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T19:30:00.000Z",
+        "last_edited_time": "2024-09-15T20:03:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "При перехоплені мʼяча, гравець, що атакує, повинен винести м'яч за лінію триочкових кидків, перш ніж продовжувати атаку. Якщо він цього не зробить і заб'є, очки не зараховуються, і володіння переходить супернику.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "При перехоплені мʼяча, гравець, що атакує, повинен винести м'яч за лінію триочкових кидків, перш ніж продовжувати атаку. Якщо він цього не зробить і заб'є, очки не зараховуються, і володіння переходить супернику.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80b2-a407-e01d50aa02ce",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:02:00.000Z",
+        "last_edited_time": "2024-09-15T20:41:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Після кожної успішної атаки м'яч може перейти до опонента або залишитися у гравця, доки він не промахнеться - це називається “м'яч переможця”. Це ви також маєте узгодити.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Після кожної успішної атаки м'яч може перейти до опонента або залишитися у гравця, доки він не промахнеться - це називається “м'яч переможця”. Це ви також маєте узгодити.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80b0-a923-ee1e624558a3",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:00:00.000Z",
+        "last_edited_time": "2024-09-15T20:30:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Фоли",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Фоли",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8034-9db0-dc780c60213e",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:00:00.000Z",
+        "last_edited_time": "2024-09-15T20:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Кожен гравець повинен самостійно оголошувати свої порушення та фоли. Тут немає суддів, тому грай чесно і оголошуй свої порушення.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Кожен гравець повинен самостійно оголошувати свої порушення та фоли. Тут немає суддів, тому грай чесно і оголошуй свої порушення.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8060-90fa-fbc3b7a8c23b",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:06:00.000Z",
+        "last_edited_time": "2024-09-15T20:09:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Після некидкового фолу, м'яч переходить до гравця, проти якого сфолили, і він починає атаку поза триочкової лінії.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Після некидкового фолу, м'яч переходить до гравця, проти якого сфолили, і він починає атаку поза триочкової лінії.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80f5-92fb-d08ed64afc4d",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:07:00.000Z",
+        "last_edited_time": "2024-09-15T20:44:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо проти тебе сфолили під час кидка, але ти забив — фол не рахується (тобто, якщо ти забив під час фолу, бал зараховується, але м'яч переходить до суперника, якщо ви домовилися про зміну володіння після кожного забитого).\nПромахнувся? М'яч залишається у тебе і розпочинаєш нову атаку поза триочкової лінії.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо проти тебе сфолили під час кидка, але ти забив — фол не рахується (тобто, якщо ти забив під час фолу, бал зараховується, але м'яч переходить до суперника, якщо ви домовилися про зміну володіння після кожного забитого).\nПромахнувся? М'яч залишається у тебе і розпочинаєш нову атаку поза триочкової лінії.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "8497488b-2949-48e0-b36a-9260d4c30946",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:09:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Хто починає?",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Хто починає?",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "b454f5bf-55bd-45d6-b4c0-12e78faae086",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:10:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Це можна вирішити кількома простими способами:",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Це можна вирішити кількома простими способами:",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-804e-84cf-cd0cea8b6a93",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Підкиньте монету, і переможець обирає, хто починає атаку.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Підкиньте монету, і переможець обирає, хто починає атаку.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80e0-8d18-fb18b1974595",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:09:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Камінь-ножиці-папір: швидкий і легкий спосіб визначити, хто почне.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Камінь-ножиці-папір: швидкий і легкий спосіб визначити, хто почне.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8079-bb61-fb3bf18383f3",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:10:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Конкурс на влучність: обидва гравці кидають з узгодженого місця (наприклад, зі штрафної лінії або поза триочкової). Хто перший заб'є, той і починає.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Конкурс на влучність: обидва гравці кидають з узгодженого місця (наприклад, зі штрафної лінії або поза триочкової). Хто перший заб'є, той і починає.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8065-b112-c25dec3b0f14",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T21:09:00.000Z",
+        "last_edited_time": "2024-09-15T21:10:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "bulleted_list_item",
+        "bulleted_list_item": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Чек: інколи гравці просто передають м'яч один одному (\"чек\") і так вирішують, хто починає без формального розіграшу.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Чек: інколи гравці просто передають м'яч один одному (\"чек\") і так вирішують, хто починає без формального розіграшу.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8021-ad0b-ef33632511c3",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:17:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "heading_1",
+        "heading_1": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Додаткові правила",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Додаткові правила",
+                    "href": null
+                }
+            ],
+            "is_toggleable": false,
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "feab7ee8-9129-4f3f-952c-1bf1653e3edb",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:17:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Правило трьох секунд діє — не стій у фарбі.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Правило трьох секунд діє — не стій у фарбі.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80ac-8201-ecbf6c39c51d",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:17:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Якщо спірний м'яч - володіння дістається тому, хто програє по очках.\nЯкщо рахунок рівний, м'яч залишається в атакуючого.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Якщо спірний м'яч - володіння дістається тому, хто програє по очках.\nЯкщо рахунок рівний, м'яч залишається в атакуючого.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8066-9ad8-eef109cce69a",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:18:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Можете домовитися, що після кожної атаки, незалежно від того, чи забили, чи промахнулися — без підбирань.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Можете домовитися, що після кожної атаки, незалежно від того, чи забили, чи промахнулися — без підбирань.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80f9-88b9-ffb0ebcab3e4",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:18:00.000Z",
+        "last_edited_time": "2024-09-15T21:11:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "І якщо хочете ускладнити гру, можна домовитися про обмеження кількості дриблінгу.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "І якщо хочете ускладнити гру, можна домовитися про обмеження кількості дриблінгу.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-80dc-b2a5-ef8ec5692a5d",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:21:00.000Z",
+        "last_edited_time": "2024-09-15T20:21:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "c1031501-94d7-4868-9b92-39f8d612adb2",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:22:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "divider",
+        "divider": {}
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-802b-9794-d159e8a42248",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:22:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-801a-a318-df00a679852f",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:24:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Ну що, ось про все це і варто домовлятись. Але пам'ятай, правила не роблять чемпіонів — твоя віддача на максимум це робить.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Ну що, ось про все це і варто домовлятись. Але пам'ятай, правила не роблять чемпіонів — твоя віддача на максимум це робить.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-8024-bd5a-efe24c965858",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:22:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Як сказав Кобі: “Момент, коли ти здаєшся — це момент, коли ти дозволяєш комусь іншому перемогти.”",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Як сказав Кобі: “Момент, коли ти здаєшся — це момент, коли ти дозволяєш комусь іншому перемогти.”",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-802b-9365-fb33ffb19be3",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:22:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Тож виходь на майданчик, поважай гру і суперника, викладайся на повну.",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Тож виходь на майданчик, поважай гру і суперника, викладайся на повну.",
+                    "href": null
+                }
+            ],
+            "color": "default"
+        }
+    },
+    {
+        "object": "block",
+        "id": "10246010-01ee-809f-97fb-e955def5b858",
+        "parent": {
+            "type": "page_id",
+            "page_id": "5437e074-4389-4c4b-b2bf-44f5a6c37730"
+        },
+        "created_time": "2024-09-15T20:22:00.000Z",
+        "last_edited_time": "2024-09-15T20:22:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "8928a828-876a-4bef-9151-fb38dfb405b3"
+        },
+        "has_children": false,
+        "archived": false,
+        "in_trash": false,
+        "type": "paragraph",
+        "paragraph": {
+            "rich_text": [],
+            "color": "default"
+        }
+    }
+]
